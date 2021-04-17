@@ -8,7 +8,7 @@ Won-gyu Hwang
 - Implement Hero(has hp and movable by mouse), base Monster(has simple move patterns)
 - combine others' code
 
-B
+Scott VL
 - Design Menu
 - Implement Score Rank system (save & load "rank.txt")
 - Implement extra features of Hero like making Hero invincible for 10 seconds when left mouse button is pressed (available only n times)
